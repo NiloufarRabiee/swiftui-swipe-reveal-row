@@ -1,0 +1,15 @@
+# SwiftPM
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Local configuration
+.env
